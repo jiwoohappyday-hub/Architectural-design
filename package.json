@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jiwoohappyday.github.io/jiwoohappyday-hub/",
+  "homepage": "https://jiwoohappyday-hub.github.io/Architectural-design/",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
