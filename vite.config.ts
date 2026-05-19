@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/jiwoohappyday-hub/', // Add base path for GitHub Pages
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
