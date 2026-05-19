@@ -1,0 +1,8 @@
+{
+  "name": "Design History Timeline",
+  "description": "A horizontal, chronological exploration of design history eras, movements, and technical trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
